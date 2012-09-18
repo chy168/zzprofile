@@ -1,7 +1,7 @@
 
 export CLICOLOR=1
 export TERM="xterm-color"
-export LSCOLORS=GxFxCxDxBxegedabagaced
+#export LSCOLORS=GxFxCxDxBxegedabagaced
 #export PS1='${GREEN}\u${BLACK}@\H:${GREEN}\w\$'
 #export PS1='${GREEN}\u${BLACK}@\H:${GREEN}\w\$'
 #export PS1='{\033[01;32m\]\u\033[m@\H:\033[01;33m\]\w\033[m}\$'
